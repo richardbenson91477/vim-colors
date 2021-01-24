@@ -1,5 +1,5 @@
 " Vim color file
-" tweaked by richardbenson91477@gmail.com
+" tweaked by richardbenson91477@protonmail.com
 " original: https://github.com/sonjapeterson/1989.vim
 set background=dark
 highlight clear

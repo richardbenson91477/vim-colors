@@ -1,5 +1,5 @@
 " Lucid is a 256-color (only) colorscheme based on Lucius
-" tweaked by richardbenson91477@gmail.com
+" tweaked by richardbenson91477@protonmail.com
 
 set background=dark
 highlight clear

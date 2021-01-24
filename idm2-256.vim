@@ -1,5 +1,5 @@
 " Vim color file
-" by richardbenson91477@gmail.com
+" by richardbenson91477@protonmail.com
 " based originally on wombat256
 
 hi clear

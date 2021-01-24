@@ -40,7 +40,7 @@
 "  - Martin Langasek - clarify the license, whitespace fixes
 "  - Marcin Szamotulski - support autocomplete for Zenburn configuration
 "    parameters
-" tweaked by richardbenson91477@gmail.com
+" tweaked by richardbenson91477@protonmail.com
 "
 " CONFIGURABLE PARAMETERS:
 "

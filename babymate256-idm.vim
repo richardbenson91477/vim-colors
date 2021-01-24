@@ -1,7 +1,7 @@
 " Vim color file
 "
 " Port of gtksourceview babymate color scheme for 256-color terminals by Anton Bobrov (bobrov@vl.ru)
-" tweaked by richardbenson91477@gmail.com
+" tweaked by richardbenson91477@protonmail.com
 
 set background=dark
 

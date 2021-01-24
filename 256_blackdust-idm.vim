@@ -1,5 +1,5 @@
 " NOTE: this is not the original file! converted for use with xterm-256
-" tweaked by richardbenson91477@gmail.com
+" tweaked by richardbenson91477@protonmail.com
 set background=dark
 hi clear          
 let g:colors_name = "256_blackdust-idm"

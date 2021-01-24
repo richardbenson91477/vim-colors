@@ -6,7 +6,7 @@
 "   David Liang (bmdavll@gmail.com)
 " based on version by
 "   Danila Bespalov (danila.bespalov@gmail.com)
-" tweaked by richardbenson91477@gmail.com
+" tweaked by richardbenson91477@protonmail.com
 
 set background=dark
 

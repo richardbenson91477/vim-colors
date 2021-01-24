@@ -3,7 +3,7 @@
 " Name:       xoria256.vim
 " Version:    1.5
 " Maintainer:	Dmitriy Y. Zotikov (xio) <xio@ungrund.org>
-" tweaked by richardbenson91477@gmail.com
+" tweaked by richardbenson91477@protonmail.com
 
 " Should work in recent 256 color terminals.  88-color terms like urxvt are
 " NOT supported.
