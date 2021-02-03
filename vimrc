@@ -29,9 +29,9 @@ let mapleader=","
 " quitting
 nnoremap <leader>qq :qa<cr>
 nnoremap <leader>qs :w!<bar>:qa<cr>
-nnoremap <C-c>q :qa<cr>
-nnoremap <C-c>s :w!<bar>q<cr>
-nnoremap <C-c><C-q> :qa!<cr>
+nnoremap <C-c><C-q> :qa<cr>
+nnoremap <C-c><C-s> :w!<bar>q<cr>
+nnoremap <C-c><C-x> :qa!<cr>
 
 " misc
 nnoremap <C-g> :noh<cr>
