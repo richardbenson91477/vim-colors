@@ -38,23 +38,24 @@ nnoremap <C-g> :noh<cr>
 nnoremap <leader>b <C-o>
 inoremap ;; <esc>
 
+" clipboard (system)
+vnoremap <leader>y "+y
+nnoremap <leader>p "+p
+nnoremap <leader>P "+P
+
 " display 
 nnoremap <leader>dd :Lexplore<cr>
 nnoremap <leader>dt :Tagbar<cr>
-
-" clipboard (system)
-vnoremap <leader>cy "+y
-nnoremap <leader>cp "+p
-nnoremap <leader>cP "+P
 
 " files
 nnoremap <leader>fi :file<cr>
 nnoremap <leader>fq :q<cr>
 nnoremap <leader>fs :w<cr>
-nnoremap <leader>fl :edit 
+nnoremap <leader>fl :edit<space>
+nnoremap <leader>fn :enew<cr>
 nnoremap <leader>fr :read<space>
-nnoremap <leader>fn :next<cr>
-nnoremap <leader>fp :prev<cr>
+nnoremap <leader>fj :next<cr>
+nnoremap <leader>fk :prev<cr>
 nnoremap <leader>fc :cd %:p:h<cr>
 
 " ctags
@@ -78,11 +79,13 @@ nnoremap <leader>en :cnext<cr>
 nnoremap <leader>ep :cprev<cr>
 
 " windowing
-nnoremap <leader>wn <c-w>n
+nnoremap <leader>wn :vsplit<bar>:enew<cr>
+nnoremap <leader>wN <c-w>n
 nnoremap <leader>wq <c-w>q
 nnoremap <leader>w1 <c-w>o
 nnoremap <leader>ws <c-w>s
 nnoremap <leader>wv <c-w>v
+nnoremap <leader>wr <c-w>r
 nnoremap <leader>ww <c-w>w
 nnoremap <leader>wh <c-w>h
 nnoremap <leader>wl <c-w>l
