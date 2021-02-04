@@ -132,6 +132,7 @@ nnoremap <leader>gb :!./%:t:r<cr>
 nnoremap <leader>gs :w<bar>!guile %<cr>
 nnoremap <leader>gg :w<bar>!go run .<cr>
 nnoremap <leader>gt :set splitright<bar>:vsplit<bar>:set nosplitright<bar>terminal $SHELL -l<cr>
+nnoremap <leader>gT :set splitbelow<bar>:split<bar>:set nosplitbelow<bar>terminal $SHELL -l<cr>
 
 " version control
 nnoremap <leader>vc :w<bar>!git commit -a<cr>
